@@ -1,4 +1,3 @@
-*Fixed/Changed*
 Collection check is a bit more stable now (and is disabled by default) - If you had it enabled, you will have to re-enable it with this update
 Bank module doesn't add the profit for the entire group of items immediately anymore when only part of it was sold
 Bank module now doesn't hurt rendering times
